@@ -1,7 +1,7 @@
 {
-  "name": "kiscica-backend",
+  "name": "dummy-backend",
   "version": "1.0.0",
-  "description": "Backend of the medical report generator website",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matyaspeterfi/kiscica-backend.git"
+    "url": ""
   },
   "author": "Matyas Peterfi",
   "license": "SEE LICENSE IN license.md",
   "bugs": {
-    "url": "https://github.com/matyaspeterfi/kiscica-backend/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/matyaspeterfi/kiscica-backend#readme",
+  "homepage": "",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv-safe": "^8.2.0",
