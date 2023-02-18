@@ -1,0 +1,1 @@
+All Rights Reserved exclusively by Matyas Peterfi
